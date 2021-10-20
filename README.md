@@ -6,8 +6,8 @@
 
 ### ***Busco oportunidade de trabalhar na área de Ti como dev ***
 
-Estudando: * HTML     * CSS      * JavaScript    * React     * NodeJs
-Soft Skils: Organizada, senso de equipe, 
+###### Estudando: * HTML     * CSS      * JavaScript    * React     * NodeJs
+###### Soft Skils: Organizada, senso de equipe, colaborativa, justa, sincera, educada, comunicativa.
 
 </br>
 <div align="center">
@@ -35,7 +35,6 @@ Soft Skils: Organizada, senso de equipe,
 
  <div align="center">
   <a href="https://www.instagram.com/elenir.lisot" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:elenirfln@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elenirlisot/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
