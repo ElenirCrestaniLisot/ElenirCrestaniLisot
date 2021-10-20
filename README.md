@@ -9,4 +9,11 @@
 
 ### ***Busco oportunidade de trabalhar na área de Ti como dev ***
 
+Estudando:
+* HTML
+* CSS
+* JavaScript
+* React
+* NodeJs
+
 
