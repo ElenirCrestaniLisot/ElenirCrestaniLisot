@@ -1,5 +1,4 @@
-##### Sou de Videira SC e moro atualmente florianópolis - SC. Possuo graduação e mestrado em Ciências da Computação, tendo trabalhado como consultora de implantação de ERP 
-e desenvolvimento de customizações na linguagem LSP e mineração de informações com SQL. Tenho experiência em modelagem de dados com WorkBench e MySql.
+##### Sou de Videira SC e moro atualmente florianópolis - SC. Possuo graduação e mestrado em Ciências da Computação, tendo trabalhado como consultora de implantação de ERP e no desenvolvimento de customizações na linguagem LSP e mineração de informações com SQL. Tenho experiência em modelagem de dados com WorkBench e MySql.
 
 
 ### **Estou no momento em transição de carreira para dev fullstack, irei atuar com React no frontend e com NodeJs no backend.**
