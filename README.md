@@ -16,19 +16,16 @@ Estudando:
 * React
 * NodeJs
 
-<div align="center">
-<h2> Seja, bem vindo!</h2>
-</div>
 </br>
 <div align="center">
   
   <div align="center">
-  <a href="https://github.com/ElenirCrestaniLisot/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElenirCrestaniLisot/&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/ElenirCrestaniLisot">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElenirCrestaniLisot&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
 </br>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenirCrestaniLisot/&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenirCrestaniLisot&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
 </br>
@@ -38,7 +35,7 @@ Estudando:
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
  </div>
 </br>
@@ -51,7 +48,6 @@ Estudando:
 </div>
 
 
-![Snake animation](https://github.com/gilbertogoncalvesdelima/gilbertogoncalvesdelima/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ElenirCrestaniLisot/ElenirCrestaniLisot/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wagstalos/count.svg" />
-
