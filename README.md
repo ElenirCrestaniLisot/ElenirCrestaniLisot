@@ -1,12 +1,11 @@
-##### Sou de Videira SC e moro atualmente florianópolis - SC. Possuo graduação e mestrado em Ciências da Computação, tendo trabalhado como consultora de implantação de ERP e no desenvolvimento de customizações na linguagem LSP e mineração de informações com SQL. Tenho experiência em modelagem de dados com WorkBench e MySql.
+##### Sou de Videira SC e atualmente moro em Florianópolis - SC. Possuo graduação e mestrado em Ciências da Computação, tendo trabalhado como consultora de implantação de ERP e no desenvolvimento de customizações na linguagem LSP e mineração de informações com SQL. Tenho experiência em modelagem de dados com WorkBench e MySql.
 
 
-### **Estou no momento em transição de carreira para dev fullstack, irei atuar com React no frontend e com NodeJs no backend.**
-### Participando de bootcamps na Dio Innovation One e estudando também na Alura e DevSamurai
+##### No momento estou em transição de carreira para dev fullstack, pretendo atuar com React no frontend e com NodeJs no backend, estou participando de bootcamps na Dio Innovation One e estudando na Alura e DevSamurai
 
 ### ***Busco oportunidade de trabalhar na área de Ti como dev ***
 
-###### Estudando: * HTML     * CSS      * JavaScript    * React     * NodeJs
+###### Estudando: HTML     CSS      JavaScript    React     NodeJs
 ###### Soft Skils: Organizada, senso de equipe, colaborativa, justa, sincera, educada, comunicativa.
 
 </br>
