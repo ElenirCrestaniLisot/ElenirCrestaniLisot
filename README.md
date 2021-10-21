@@ -3,7 +3,7 @@
 
 ##### No momento estou em transição de carreira para dev fullstack, pretendo atuar com React no frontend e com NodeJs no backend, estou participando de bootcamps na Dio Innovation One e estudando na Alura e DevSamurai
 
-### ***Busco oportunidade de trabalhar na área de Ti como dev ***
+### ***Busco oportunidade de trabalhar na área de Ti com desenvolvimento de software ***
 
 ###### Hard Skils: Lógica de programação, Modelagem de dados relacionais, Workbench, Mysql, SQL
 ###### Praticando: HTML |    CSS  |    JavaScript
