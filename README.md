@@ -5,10 +5,10 @@
 
 ### ***Busco oportunidade de trabalhar na área de Ti com desenvolvimento de software ***
 
-###### Hard Skils: Lógica de programação, Modelagem de dados relacionais, Workbench, Mysql, SQL
-###### Praticando: HTML |    CSS  |    JavaScript
-###### Estudando: React   |  NodeJs
-###### Soft Skils: Organizada, senso de equipe, colaborativa, justa, sincera, educada, comunicativa e resiliente.
+###### Hard Skils: Lógica de programação, Modelagem de dados relacionais, Workbench, Mysql, SQL, HTML, CSS 
+###### Praticando: NodeJs | JavaScript
+###### Estudando: Docker | Angular 
+###### Soft Skils: Organizada, senso de equipe, colaborativa, justa, sincera, educada, comunicativa, resiliente e disciplinada.
 
 </br>
 <div align="center">
