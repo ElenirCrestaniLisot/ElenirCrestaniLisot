@@ -7,7 +7,7 @@
 
 ###### Hard Skils: Lógica de programação, Modelagem de dados relacionais, Workbench, Mysql, PostGre, SQL, HTML, CSS 
 ###### Praticando: NodeJs | JavaScript | TypeScript
-###### Estudando: Docker | Angular 
+###### Estudando: Docker | ReactJs
 ###### Soft Skils: Organizada, senso de equipe, colaborativa, justa, sincera, educada, comunicativa, resiliente e disciplinada.
 
 </br>
